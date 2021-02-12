@@ -1,3 +1,4 @@
 configparser
 Pillow
 svgwrite
+regex
